@@ -13,3 +13,4 @@ https://drive.google.com/drive/folders/1ykHlUEWY0UYdT5YgM-l_Ie4_2UppR9Qk
 ### Blender objekty ve hře:
 https://drive.google.com/drive/folders/1T2Oxe63YMsJ5CSRYS3J2Xd3wMZV0jUHm?usp=sharing
 ### Vývojářská verze hry (spustitelné pouze v Unreal Enginu 5.1):
+https://drive.google.com/drive/folders/1XxC1wbDK4Koyz2-WieQYgzEFC-vyv7KD?usp=sharing
