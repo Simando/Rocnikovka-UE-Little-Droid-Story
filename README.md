@@ -1,7 +1,7 @@
 # Rocnikovka-UE-Little-Droid-Story
 
 ## Odkaz ke stažení buildu:
-https://drive.google.com/drive/folders/1ykHlUEWY0UYdT5YgM-l_Ie4_2UppR9Qk
+https://drive.google.com/drive/folders/1KBpRXxtro7Skixm4IAavf1sKUw6zTRn4?usp=sharing
 
 ### Postup:
   1. Stáhnout celou složku Windows
